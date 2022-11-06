@@ -19,6 +19,10 @@ test('Title shows up when page loads', async () => {
     expect(displayed).toBe(true)
 })
 
-test('Draw button displays choices', async () => {
-    
-})
+// test('Draw button displays choices', async () => {
+//     expect()
+// })
+
+// test('', async () => {
+//     expect()
+// })
